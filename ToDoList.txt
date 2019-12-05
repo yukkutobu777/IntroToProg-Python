@@ -1,4 +1,3 @@
 Task,Priority
 Wash dog,2
 Make dinner,1
-Buy lemons,3
